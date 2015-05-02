@@ -1,0 +1,17 @@
+{
+    "valid": true,
+    "messages": [
+        "Bank code valid: 50890000"
+    ],
+    "iban": "DE07508900000001757814",
+    "bankData": {
+        "bankCode": "50890000",
+        "name": "Volksbank Darmstadt - Südhessen",
+        "zip": "64218",
+        "city": "Darmstadt",
+        "bic": "GENODEF1VBD"
+    },
+    "checkResults": {
+        "bankCode": true
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "valid": true,
+    "messages": [
+        "Cannot validate bank code. No information available.",
+        "Cannot get BIC. No information available."
+    ],
+    "iban": "AL90208110080000001039531801",
+    "bankData": {
+        "bankCode": "",
+        "name": ""
+    },
+    "checkResults": {
+        "bankCode": false
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "valid": true,
+    "messages": [
+        "Bank code valid: 37040044"
+    ],
+    "iban": "DE89370400440532013000",
+    "bankData": {
+        "bankCode": "37040044",
+        "name": "Commerzbank",
+        "zip": "50447",
+        "city": "Köln",
+        "bic": "COBADEFFXXX"
+    },
+    "checkResults": {
+        "bankCode": true
+    }
+}

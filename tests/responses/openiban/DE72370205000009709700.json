@@ -1,0 +1,17 @@
+{
+    "valid": true,
+    "messages": [
+        "Bank code valid: 37020500"
+    ],
+    "iban": "DE72370205000009709700",
+    "bankData": {
+        "bankCode": "37020500",
+        "name": "Bank für Sozialwirtschaft",
+        "zip": "50443",
+        "city": "Köln",
+        "bic": "BFSWDE33XXX"
+    },
+    "checkResults": {
+        "bankCode": true
+    }
+}
