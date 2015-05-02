@@ -4,9 +4,10 @@ OpenIBAN - Python IBAN library
 OpenIBAN is a generic library for interacting with various (currently only `openiban.com <https://openiban.com/>`_) IBAN
 providers.
 
-Off line IBAN validation:
+Off line IBAN validation
 
 .. code-block:: python
+
     from openibanlib import openiban
     # By trying to initialize an IBAN object
     >>> try:
@@ -18,8 +19,10 @@ Off line IBAN validation:
     True
     ...
 
-On line (using an IBAN provider) validation:
+On line (using an IBAN provider) validation
+
 .. code-block:: python
+
     from openibanlib.providers.OpenIBAN import OpenIBAN
     ...
     
