@@ -1,6 +1,9 @@
 OpenIBAN - Python IBAN library
 ===============================
 
+.. image:: https://travis-ci.org/nathanIL/openiban.svg
+    :target: https://travis-ci.org/nathanIL/openiban
+
 OpenIBAN is a generic library for interacting with various (currently only `openiban.com <https://openiban.com/>`_) IBAN
 providers.
 
